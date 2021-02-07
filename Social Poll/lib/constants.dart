@@ -1,0 +1,1 @@
+const kAppName = 'Social Poll';
